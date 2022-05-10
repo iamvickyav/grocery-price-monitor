@@ -1,0 +1,148 @@
+{
+    "Horlicks" : [
+    {
+        "price" : "219",
+        "month" : "May-20"
+    },{
+        "price" : "219",
+        "month" : "Jul-20"
+    },{
+        "price" : "229",
+        "month" : "Dec-20"
+    },{
+        "price" : "229",
+        "month" : "Feb-21"
+    },{
+        "price" : "230",
+        "month" : "Apr-21"
+    },{
+        "price" : "182",
+        "month" : "May-21"
+    },{
+        "price" : "182",
+        "month" : "Jul-21"
+    }],
+    "SVS-GrounutOil-500ml" : [
+    {
+        "price" : "94",
+        "month" : "May-20"
+    },{
+        "price" : "92",
+        "month" : "Jun-20"
+    },{
+        "price" : "85",
+        "month" : "Jul-20"
+    },{
+        "price" : "81",
+        "month" : "Oct-20"
+    },{
+        "price" : "85.5",
+        "month" : "Dec-20"
+    },{
+        "price" : "86",
+        "month" : "Feb-21"
+    },{
+        "price" : "94",
+        "month" : "Apr-21"
+    },{
+        "price" : "95",
+        "month" : "May-21"
+    },{
+        "price" : "92",
+        "month" : "Jul-21"
+    },{
+        "price" : "91",
+        "month" : "Aug-21"
+    }],
+    "Tea-Chakra Gold" : [
+    {
+        "price" : "151",
+        "month" : "May-20"
+    },{
+        "price" : "153",
+        "month" : "Jun-20"
+    },{
+        "price" : "156",
+        "month" : "Jul-20"
+    },{
+        "price" : "156",
+        "month" : "Oct-20"
+    },{
+        "price" : "166",
+        "month" : "Dec-20"
+    },{
+        "price" : "176",
+        "month" : "Apr-21"
+    },{
+        "price" : "176",
+        "month" : "May-21"
+    },{
+        "price" : "176",
+        "month" : "Jul-21"
+    },{
+        "price" : "190",
+        "month" : "Aug-21"
+    }],
+    "Matchbox-SF" : [
+        {
+        "price" : "10",
+        "month" : "Jul-20"
+    },{
+        "price" : "10",
+        "month" : "Oct-20"
+    },{
+        "price" : "9",
+        "month" : "Dec-20"
+    },{
+        "price" : "11",
+        "month" : "Apr-21"
+    },{
+        "price" : "11",
+        "month" : "May-21"
+    },{
+        "price" : "9.5",
+        "month" : "Aug-21"
+    }],
+    "Soya-Beans-200g" : [
+        {
+        "price" : "22",
+        "month" : "May-20"
+    },{
+        "price" : "22",
+        "month" : "Jun-20"
+    }],
+    "Cumbu-200g" : [
+    {
+        "price" : "10",
+        "month" : "May-20"
+    },{
+        "price" : "10",
+        "month" : "Jun-20"
+    },{
+        "price" : "10",
+        "month" : "Jul-20"
+    },{
+        "price" : "9.6",
+        "month" : "Oct-20"
+    },{
+        "price" : "9.6",
+        "month" : "Feb-21"
+    },{
+        "price" : "9.6",
+        "month" : "Apr-21"
+    },{
+        "price" : "9.6",
+        "month" : "May-21"
+    }],
+    "Kelvaragu-200g" : [
+    {
+        "price" : "11",
+        "month" : "May-20"
+    },{
+        "price" : "10",
+        "month" : "Jun-20"
+    },{
+        "price" : "10",
+        "month" : "Jul-20"
+    }]
+}
